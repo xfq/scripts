@@ -74,7 +74,9 @@
 
 ## 藏文
 
-TBD
+藏文中没有单词分隔符，但每个音节之后都会有藏文音节符（`U+0F0B TIBETAN MARK INTER-SYLLABIC TSHEG [་]`）：
+
+![音节符](/images/tsek.png)
 
 ## 中文
 
