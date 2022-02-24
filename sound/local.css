@@ -1,0 +1,32 @@
+[lang=zh-hans] {
+  font-family: 'PingFang SC', 'Noto Sans SC', 'Heiti SC', 'DengXian', 'Microsoft YaHei', Helvetica, Segoe UI, Arial, sans-serif;
+}
+
+a.termref:link,
+a.termref:hover,
+a.termref:visited,
+a.termref:active {
+  text-decoration:none;
+  border-bottom: 1px dotted #FC0;
+  color:#C60;
+}
+
+.todo {
+  color: #900;
+  background-color: #FFC;
+}
+
+table.glossary {
+  border-collapse: collapse;
+  border: 2px black solid;
+}
+
+table.glossary td {
+  border-left: 1px solid rgba(17, 101, 145, 0.4);
+  border-right: 1px solid rgba(17, 101, 145, 0.4);
+  padding: 0.5em;
+}
+table.glossary tbody tr:nth-child(2n-1) {
+  background-color: #fafafa;
+  transition: all .125s ease-in-out;
+}
