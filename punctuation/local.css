@@ -9,6 +9,12 @@
   font-family: 'Punctuation SC', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', 'PingFang SC', 'Noto Sans SC', 'Noto Sans CJK SC', 'Heiti SC', 'DengXian', 'Microsoft YaHei', sans-serif;
 }
 
+.uname {
+  text-transform: uppercase;
+  font-size: 85%;
+  letter-spacing: 0.03em;
+}
+
 /* a.termref:link,
 a.termref:hover,
 a.termref:visited,
