@@ -9,7 +9,7 @@
   font-family: 'Punctuation SC', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', 'PingFang SC', 'Noto Sans SC', 'Noto Sans CJK SC', 'Heiti SC', 'DengXian', 'Microsoft YaHei', sans-serif;
 }
 
-a.termref:link,
+/* a.termref:link,
 a.termref:hover,
 a.termref:visited,
 a.termref:active {
@@ -36,4 +36,4 @@ table.glossary td {
 table.glossary tbody tr:nth-child(2n-1) {
   background-color: #fafafa;
   transition: all .125s ease-in-out;
-}
+} */
