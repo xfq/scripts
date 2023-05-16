@@ -2,6 +2,7 @@
 Adlam,阿德拉姆字母
 Arabic,阿拉伯字母，阿拉伯语
 Armenian,亚美尼亚文
+Austrian German,奥地利德语
 Balinese,巴厘语
 Bengali,孟加拉文，孟加拉语
 Brahmi,婆罗米文
@@ -9,9 +10,12 @@ Cherokee,切罗基文
 Chinese,中文
 Chosŏn'gŭl,朝鲜国文
 Cyrillic,西里尔字母
+Danish,丹麦语
 Devanagari,天城文
 Dutch,荷兰语
+Estonian,爱沙尼亚语
 "Ethiopic, Geʽez",吉兹字母
+Finnish,芬兰语
 French,法语
 Georgian,格鲁吉亚字母
 German,德语
@@ -39,6 +43,7 @@ Meetei,曼尼普尔文
 Mongolian,蒙文，蒙古语
 Myanmar,缅文
 N'Ko,西非书面字母
+Norwegian,挪威语
 Ol Chiki,桑塔利文
 Oriya,奥里亚文
 Persian,波斯语
@@ -47,6 +52,7 @@ Punjabi,旁遮普语
 Russian,俄语
 Spanish,西班牙语
 Sundanese,巽他语
+Swedish,瑞典语
 Tamil,泰米尔语
 Telugu,泰卢固文
 Thaana,它拿文
