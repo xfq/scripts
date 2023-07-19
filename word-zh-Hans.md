@@ -30,6 +30,14 @@
 
 一些较为早期的古木基文不包含空格，它们被称为larivaar。
 
+## 吉兹字母
+
+（包括阿姆哈拉语等多种语言。）
+
+在现代阿姆哈拉语中，单词通常以空格分隔。有时也可用 `፡ [U+1361 ETHIOPIC WORDSPACE]` 分隔。尽管这种情况越来越少见，在手写文字中仍然常见。
+
+Reference: [Ethiopic Layout Requirements](https://www.w3.org/TR/elreq/#ethiopic_punctuation)
+
 ## 拉丁字母
 
 （包括欧洲、美洲、大洋洲、美洲、非洲和亚洲的多种语言。）
