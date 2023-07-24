@@ -1,11 +1,14 @@
 ﻿English,简体中文
 Adlam,阿德拉姆字母
+Akkadian,阿卡德语
 Ancient Greek,古希腊语
 Arabic,阿拉伯字母，阿拉伯语
+Aramaic,阿拉姆语，阿拉米语，阿拉姆字母
 Armenian,亚美尼亚文
 Austrian German,奥地利德语
 Balinese,巴厘文字，巴厘语
 Bamum,巴穆姆文，巴蒙文，巴姆文
+Batak,巴塔克文字，巴塔克语
 Bengali,孟加拉文，孟加拉语
 Brahmi,婆罗米文
 Caucasian Albanian,高加索阿尔巴尼亚语
@@ -15,11 +18,13 @@ Chosŏn'gŭl,朝鲜国文
 Cuneiform,楔形文字
 Cypriot syllabary,塞浦路斯音节文字
 Cyrillic,西里尔字母
+Czech,捷克语
 Danish,丹麦语
 Devanagari,天城文
 Dhivehi (Maldivian),迪维希语
 Dutch,荷兰语
 Egyptian hieroglyphs,圣书体
+Elymaic,埃利迈文
 Estonian,爱沙尼亚语
 "Ethiopic, Geʽez",吉兹字母
 Finnish,芬兰语
@@ -32,6 +37,7 @@ Gothic,哥特字母
 Greek,希腊字母，希腊语
 Gujarati,古吉拉特文，古吉拉特语
 Gurmukhi,古木基文
+Hakka Chinese,客家话
 Hangul,韩古尔
 Hanifi Rohingya,哈乃斐罗兴亚文字
 Hebrew,希伯来字母，希伯来语
@@ -39,6 +45,7 @@ Hindi,印地语
 Hindustani,印度斯坦语
 Hungarian,匈牙利语
 Indonesian,印度尼西亚语
+Irish,爱尔兰语
 Italian,意大利语
 Japanese,日语
 Javanese,爪哇字母，爪哇语
@@ -46,41 +53,54 @@ Kannada,卡纳达语
 Kashmiri,克什米尔语
 Khitan small script,契丹小字
 Khmer,高棉文，柬埔寨语，高棉语
+Khwarezmian,花剌子模语
 Korean,朝鲜语，韩国语
+Kurukh,库鲁克语
 Lanna (Tai Tham),老傣仂文
 Lao,老挝文，老挝语
 Latin,拉丁字母，拉丁语
 Lepcha,绒巴文
 Limbu,林布字母，林布语
+Lojban,逻辑语
 Malayalam,马拉雅拉姆文
 Manchu,满文，满语
 Marathi,马拉地语
 Meetei,曼尼普尔文
+Middle Persian,中古波斯语
 Mongolian,蒙文，蒙古语
 Myanmar,缅文
 Nag Mundari,蒙达里文
+Naxi,纳西语
 Nepali,尼泊尔语
 N'Ko,西非书面字母
 Norwegian,挪威语
 Ogham,欧甘字母
 Ol Chiki,桑塔利文
 Oriya,奥里亚文
+Paleo-Hebrew,古希伯来字母
 Pali,巴利语
 Pallava,帕拉瓦文
 Persian,波斯语
+Phoenician,腓尼基字母，腓尼基语
 Portuguese,葡萄牙语
 Punjabi,旁遮普语
 Rohingya,罗兴亚语
+Roman,拉丁字母
 Russian,俄语
 Sanskrit,梵语
 Sibe,锡伯语
-Sogdian,粟特语
+Sinhala,僧伽罗文，僧伽罗语
+"Slovene, Slovenian",斯洛文尼亚语
+Sogdian,粟特字母，粟特语
+South Arabian,南阿拉伯字母
 Spanish,西班牙语
 Sumerian,苏美尔语
 Sundanese,巽他文，巽他语
 Swedish,瑞典语
-Tai Le,傣那文
+Syriac,叙利亚字母，叙利亚语
+"Tai Le, Dehong Dai",傣那文
 Tai Lü,傣仂语，傣泐语
+Tai Nuea,傣那语
 Tamil,泰米尔文，泰米尔语
 Telugu,泰卢固文
 Thaana,它拿文
@@ -93,6 +113,7 @@ Urdu,乌尔都语
 Uzbek,乌孜别克语
 Vedic Sanskrit,吠陀梵语
 Warang Citi,瓦兰齐地文
+Welsh,威尔士语
 Yi,彝文
 Yoruba,约鲁巴语
 Zulu,祖鲁语
