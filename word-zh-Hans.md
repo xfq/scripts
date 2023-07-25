@@ -94,6 +94,10 @@ Reference: [Ethiopic Layout Requirements](https://www.w3.org/TR/elreq/#ethiopic_
 
 单词以空格分隔。
 
+## 西非书面字母
+
+单词以空格分隔。
+
 ## 西里尔字母
 
 （包括俄语、蒙古语、乌克兰语等多种语言。）
