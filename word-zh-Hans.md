@@ -128,6 +128,10 @@ Reference: [Ethiopic Layout Requirements](https://www.w3.org/TR/elreq/#ethiopic_
 
 单词以空格分隔。
 
+## 亚美尼亚文
+
+单词以空格分隔。
+
 ## 藏文
 
 藏文中没有单词分隔符，但每个音节之后都会有藏文音节符（`U+0F0B TIBETAN MARK INTER-SYLLABIC TSHEG [་]`）：
