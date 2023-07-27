@@ -84,6 +84,10 @@ Reference: [Ethiopic Layout Requirements](https://www.w3.org/TR/elreq/#ethiopic_
 
 在一些情况下可使用[わかち書き](https://ja.wikipedia.org/wiki/%E3%82%8F%E3%81%8B%E3%81%A1%E6%9B%B8%E3%81%8D)。
 
+## 撒马利亚字母
+
+单词以 `࠰ [U+0830 SAMARITAN PUNCTUATION NEQUDAA]` 分隔。
+
 ## 泰米尔文
 
 单词以空格分隔。
