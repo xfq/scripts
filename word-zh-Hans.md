@@ -97,6 +97,10 @@ Reference: [Ethiopic Layout Requirements](https://www.w3.org/TR/elreq/#ethiopic_
 
 单词以 `࠰ [U+0830 SAMARITAN PUNCTUATION NEQUDAA]` 分隔。
 
+## 僧伽罗文
+
+单词以空格分隔。
+
 ## 泰米尔文
 
 单词以空格分隔。
