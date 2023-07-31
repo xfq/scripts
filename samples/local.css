@@ -12,3 +12,21 @@
 .uchen {
   font-family: "Qomolangma-Dunhuang","Qomolangma-Uchen Sarchen","Qomolangma-Uchen Sarchung","Qomolangma-Uchen Suring","Qomolangma-Uchen Sutung","Qomolangma-Title","Qomolangma-Subtitle","Qomolangma-Woodblock","BabelStone Tibetan Slim",Jomolhari,"Yagpo Tibetan Uni","DDC Uchen","DDC Rinzin",Kailash,"TCRC Youtso Unicode","Tibetan Machine Uni",Wangdi29,"Noto Serif Tibetan","Noto Sans Tibetan","Microsoft Himalaya";
 }
+
+p:lang(mn) {
+  font-family: "Menk Hawang Tig", "Menk Qagan Tig", "Menk Garqag Tig", "Menk Har_a Tig", "Menk Scnin Tig", "Oyun Gurban Ulus Tig", "Oyun Qagan Tig", "Oyun Garqag Tig", "Oyun Har_a Tig", "Oyun Scnin Tig", "Oyun Agula Tig", "Mongolian Baiti", "Mongolian Universal White", "Noto Sans Mongolian", "Mongol Usug", "Mongolian White", "MongolianScript", "Code2000", "Menksoft Qagan";
+
+  font-weight: normal;
+  font-size: 1.25em;
+  line-height: 1.25em;
+  writing-mode: vertical-lr;
+  -webkit-writing-mode: vertical-lr;
+  -o-writing-mode: vertical-lr;
+  -ms-writing-mode: tb-lr;
+  writing-mode: tb-lr;
+  vertical-align: text-top;
+  overflow-wrap: normal;
+  word-wrap: normal;
+
+  margin: 1em auto;
+}
