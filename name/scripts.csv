@@ -1,5 +1,6 @@
 ﻿English,简体中文
 Adlam,阿德拉姆字母
+Akan,阿肯语
 Akkadian,阿卡德语
 Ancient Greek,古希腊语
 Arabic,阿拉伯字母，阿拉伯语
@@ -13,7 +14,10 @@ Batak,巴塔克文字，巴塔克语
 Bengali,孟加拉文，孟加拉语
 Bouyei,布依语
 Brahmi,婆罗米文
+Braille,盲文
+Cantonese,广府话，广州话，广东话，粤语
 Caucasian Albanian,高加索阿尔巴尼亚语
+Central Kurdish,中库尔德语
 Cherokee,切罗基文
 Chinese,汉语，中文，华语
 Chosŏn'gŭl,朝鲜国文
@@ -31,6 +35,7 @@ Egyptian hieroglyphs,圣书体
 Elymaic,埃利迈文
 Estonian,爱沙尼亚语
 "Ethiopic, Geʽez",吉兹字母
+Filipino,菲律宾语
 Finnish,芬兰语
 French,法语
 Garo,加罗语
@@ -69,6 +74,7 @@ Khitan small script,契丹小字
 Khmer,高棉文，柬埔寨语，高棉语
 Khwarezmian,花剌子模语
 Korean,朝鲜语，韩国语
+Kurdish,库尔德语
 Kurukh,库鲁克语
 Kyrgyz,柯尔克孜语
 Lanna (Tai Tham),老傣仂文
@@ -91,10 +97,12 @@ Nag Mundari,蒙达里文
 Naxi,纳西语
 Nepali,尼泊尔语
 N'Ko,西非书面字母，西非书面文字，康柏语
+Northern Kurdish,北库尔德语
 Norwegian,挪威语
 Odia (Oriya),奥里亚文
 Ogham,欧甘字母
 Ol Chiki,桑塔利文
+Old Norse,古斯堪地纳维亚语
 Old Turkic,突厥字母
 Ottoman Turkish,奥斯曼土耳其语
 Paleo-Hebrew,古希伯来字母
@@ -107,6 +115,7 @@ Portuguese,葡萄牙语
 Punjabi,旁遮普语
 Rohingya,罗兴亚语
 Roman,拉丁字母
+Runes,卢恩字母
 Russian,俄语
 Samaritan,撒马利亚字母
 Sanskrit,梵语
@@ -118,11 +127,13 @@ Sindhi,信德语
 "Slovene, Slovenian",斯洛文尼亚语
 Sogdian,粟特字母，粟特语
 South Arabian,南阿拉伯字母
+Southern Kurdish,南库尔德语
 Spanish,西班牙语
 Sumerian,苏美尔语
 Sundanese,巽他文，巽他语
 Swedish,瑞典语
 Syriac,叙利亚字母，叙利亚语
+Tagalog,他加禄语
 "Tai Le, Dehong Dai",傣那文
 Tai Lü,傣仂语，傣泐语
 Tai Nuea,傣那语
@@ -135,6 +146,7 @@ Tibetan,藏文
 Tifinagh,提非纳文字，提非纳字母
 Tigrinya,提格雷尼亚语
 Turoyo (Surayt),图罗尤语
+Twi,契维语
 Ubykh,尤比克语
 Ugaritic,乌加里特字母，乌加里特语
 Uighur,维吾尔语
