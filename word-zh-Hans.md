@@ -64,6 +64,12 @@ Reference: [Ethiopic Layout Requirements](https://www.w3.org/TR/elreq/#ethiopic_
 
 单词以空格分隔。
 
+## 老傣仂文
+
+没有单词分隔符。
+
+老傣仂文中会出现空格，不过空格充当的是短语分隔符，而不是单词分隔符。
+
 ## 老挝文
 
 没有单词分隔符，对单词的定义是主观的。
