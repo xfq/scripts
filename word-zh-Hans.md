@@ -128,6 +128,12 @@ Reference: [Ethiopic Layout Requirements](https://www.w3.org/TR/elreq/#ethiopic_
 
 单词以空格分隔。
 
+## 统一加拿大原住民音节文字
+
+（包括因纽特语、克里语、黑脚语等多种语言。）
+
+单词以空格分隔。
+
 ## 西非书面字母
 
 单词以空格分隔。
