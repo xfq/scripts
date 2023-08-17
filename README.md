@@ -12,4 +12,8 @@
 
 -----
 
+* [直排文字](https://github.com/xfq/scripts/blob/main/writing-mode-zh-Hans.md)
+
+-----
+
 * [语音学和音系学](https://xfq.github.io/scripts/sound/index.zh-Hans.html)
