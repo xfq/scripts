@@ -14,11 +14,13 @@
 
 参见[jlreq § 2.3 Vertical Writing Mode and Horizontal Writing Mode](https://www.w3.org/TR/jlreq/#vertical_writing_mode_and_horizontal_writing_mode)
 
-## 朝鲜语/韩国语
+## 韩国语
 
-韩古尔（Hangul）和朝鲜国文（Chosŏn'gŭl）在直排时，文字由上向下，行由右向左排列。
+韩国语在直排时，文字由上向下，行由右向左排列。
 
 参见[klreq § 4.1 Writing Direction (Horizontal Writing, Vertical Writing)](https://w3c.github.io/klreq/#para-direction)
+
+<!-- TODO: check 朝鲜语（조선말） -->
 
 ## 库利坦字母
 
