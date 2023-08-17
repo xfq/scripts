@@ -22,6 +22,8 @@
 
 <!-- TODO: check 朝鲜语（조선말） -->
 
+<!-- TODO: think about the section name. Should it be Hangul/Chosŏn'gŭl/Hanja? -->
+
 ## 库利坦字母
 
 ## 满文
