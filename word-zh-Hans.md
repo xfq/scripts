@@ -160,7 +160,7 @@ Reference: [Ethiopic Layout Requirements](https://www.w3.org/TR/elreq/#ethiopic_
 
 单词以空格分隔。
 
-## 亚美尼亚文
+## 亚美尼亚字母
 
 单词以空格分隔。
 
