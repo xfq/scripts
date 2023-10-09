@@ -14,7 +14,7 @@ See [jlreq § 2.3 Vertical Writing Mode and Horizontal Writing Mode](https://www
 
 ## Korean
 
-See [klreq § 4.1 Writing Direction (Horizontal Writing, Vertical Writing)](https://w3c.github.io/klreq/#para-direction)
+See [klreq § 4.1 Writing Direction (Horizontal Writing, Vertical Writing)](https://w3c.github.io/klreq/#para-direction).
 
 ## Kulitan
 
