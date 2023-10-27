@@ -9,7 +9,7 @@
 * [语言文字列表](https://xfq.github.io/scripts/name/index.zh-Hans.html)
 * 单词分隔符
   * [不包含国家和地区](https://github.com/xfq/scripts/blob/main/word-zh-Hans.md)
-  * [包含国家和地区](https://github.com/xfq/scripts/blob/main/word-zh-Hans.md)
+  * [包含国家和地区](https://github.com/xfq/scripts/blob/main/word-with-countries-zh-Hans.md)
 * [各语言的文本示例](https://xfq.github.io/scripts/samples/)
 
 -----
