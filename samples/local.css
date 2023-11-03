@@ -30,3 +30,11 @@ p:lang(mn) {
 
   margin: 1em auto;
 }
+
+[lang=ban] {
+  font-family: "Noto Serif Balinese";
+}
+
+[lang=bbc] {
+  font-family: "Noto Sans Batak";
+}
