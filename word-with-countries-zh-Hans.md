@@ -102,6 +102,8 @@ Reference: [Ethiopic Layout Requirements](https://www.w3.org/TR/elreq/#ethiopic_
 
 空格分隔音节而不是单词，但当音节组合成专有名词时，会使用连字符将音节连在一起。
 
+![老傈僳文](/images/fraser.png)
+
 ## 老挝文
 
 使用的国家和地区：老挝、泰国、柬埔寨、越南。
