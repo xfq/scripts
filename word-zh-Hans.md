@@ -72,6 +72,10 @@ Reference: [Ethiopic Layout Requirements](https://www.w3.org/TR/elreq/#ethiopic_
 
 老傣仂文中会出现空格，不过空格充当的是短语分隔符，而不是单词分隔符。
 
+## 老傈僳文（富能仁文）
+
+空格分隔音节而不是单词，但当音节组合成专有名词时，会使用连字符将音节连在一起。
+
 ## 老挝文
 
 没有单词分隔符，对单词的定义是主观的。
