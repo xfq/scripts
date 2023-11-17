@@ -26,6 +26,8 @@ See [klreq § 4.1 Writing Direction (Horizontal Writing, Vertical Writing)](http
 
 ## Nüshu
 
+## ʼPhags-pa
+
 ## Sogdian
 
 ## Tagbanwa
