@@ -162,6 +162,12 @@ Reference: [Ethiopic Layout Requirements](https://www.w3.org/TR/elreq/#ethiopic_
 
 单词以 `࠰ [U+0830 SAMARITAN PUNCTUATION NEQUDAA]` 分隔。
 
+## 桑塔利文
+
+使用的国家和地区：印度、孟加拉、尼泊尔
+
+单词以空格分隔。
+
 ## 僧伽罗文
 
 使用的国家和地区：斯里兰卡。
