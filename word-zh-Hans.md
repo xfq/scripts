@@ -180,6 +180,10 @@ Reference: [Ethiopic Layout Requirements](https://www.w3.org/TR/elreq/#ethiopic_
 
 单词以空格分隔。
 
+## 越南傣文
+
+与许多其他婆罗米系南支文字不同，越南傣文的单词以空格分隔。不过，有一些较早期的文字仍然没有单词分隔符。
+
 ## 藏文
 
 藏文中没有单词分隔符，但每个音节之后都会有藏文音节符（`U+0F0B TIBETAN MARK INTER-SYLLABIC TSHEG [་]`）：
