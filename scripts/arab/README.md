@@ -6,6 +6,22 @@
 
 本文重点介绍现代标准阿拉伯语和波斯语这两种语言的排版需求。
 
+### 现代标准阿拉伯语
+
+**现代标准阿拉伯语**是北非和西亚国家在书面和大多数正式演讲中使用的阿拉伯语变体。阿拉伯语的其他变体在排版上可能会有所不同。
+
+### 波斯语
+
+**波斯语**是伊朗和阿富汗的官方语言。伊朗波斯语也称为西波斯语，阿富汗波斯语也称为东波斯语，当地称为达里语。
+
+**塔吉克语**是塔吉克斯坦使用的波斯语，用西里尔字母书写，因此不在本文档的描述范围内。
+
+## 基本原则
+
+阿拉伯字母的一些特征对字体设计师来说是具有挑战性的。
+
+### 基线
+
 ## 参考文献
 
 Behnam Esfahbod; Mostafa Hajizadeh; Najib Tounsi; Richard Ishida; Shervin Afshar; Titus Nemeth. Text Layout Requirements for the Arabic Script. 26 October 2021. W3C Working Draft. URL: https://www.w3.org/TR/alreq/
