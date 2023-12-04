@@ -29,6 +29,7 @@
 | baseline                | 基线         |
 | bleed                   | 出血         |
 | code point              | 码位         |
+| contextual form         | 内文形式     |
 | Eastern Arabic numerals | 阿拉伯文数字 |
 | European numerals       | 阿拉伯数字   |
 | final form              | 尾部形式     |
