@@ -22,6 +22,23 @@
 
 ### 基线
 
+## 词汇表
+
+| **英语**                | **简体中文** |
+|-------------------------|--------------|
+| baseline                | 基线         |
+| bleed                   | 出血         |
+| code point              | 码位         |
+| Eastern Arabic numerals | 阿拉伯文数字 |
+| European numerals       | 阿拉伯数字   |
+| final form              | 尾部形式     |
+| font                    | 字体         |
+| horizontal writing mode | 横排         |
+| initial form            | 首部形式     |
+| isolated form           | 独立形式     |
+| medial form             | 中部形式     |
+| vertical writing mode   | 直排         |
+
 ## 参考文献
 
 Behnam Esfahbod; Mostafa Hajizadeh; Najib Tounsi; Richard Ishida; Shervin Afshar; Titus Nemeth. Text Layout Requirements for the Arabic Script. 26 October 2021. W3C Working Draft. URL: https://www.w3.org/TR/alreq/
