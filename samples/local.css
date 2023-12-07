@@ -38,3 +38,9 @@ p:lang(mn) {
 [lang=bbc] {
   font-family: "Noto Sans Batak";
 }
+
+.nastaliq {
+  font-family: 'Noto Nastaliq Urdu', 'Urdu Typesetting', 'Roz Urdu Punjabi Nastaleeq', 'Jameel Noori Nastaleeq', 'Noto Nastaliq Urdu Draft', 'Hussaini Nastaleeq', 'AlQalam Taj Nastaleeq', IranNastaliq, 'Awami Nastaliq', 'Nafees Nastaleeq', 'Nafees Nastaleeq v1.01', 'Pak Nastaleeq', 'PDMS_Jauhar', 'Alvi Lahori Nastaleeq', 'Urdu Emad Nastaleeq', 'Urdu Emad Nastaleeq';
+  font-size: 110%;
+  font-style: normal;
+}
