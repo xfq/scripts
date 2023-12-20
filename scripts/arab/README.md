@@ -42,4 +42,4 @@
 
 ## 参考文献
 
-Behnam Esfahbod; Mostafa Hajizadeh; Najib Tounsi; Richard Ishida; Shervin Afshar; Titus Nemeth. Text Layout Requirements for the Arabic Script. 26 October 2021. W3C Working Draft. URL: https://www.w3.org/TR/alreq/
+Richard Ishida. Arabic & Persian Layout Requirements. 12 December 2023. W3C Note. URL: https://www.w3.org/TR/alreq/
