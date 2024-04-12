@@ -176,6 +176,10 @@ Reference: [Ethiopic Layout Requirements](https://www.w3.org/TR/elreq/#ethiopic_
 
 单词以空格分隔。
 
+连字号使用 `ᱼ [U+1C7C OL CHIKI PHAARKAA]`：
+
+![桑塔利文中的连字号](/images/paired-words-sat.png)
+
 ## 僧伽罗文
 
 使用的国家和地区：斯里兰卡。
