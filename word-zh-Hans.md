@@ -146,6 +146,10 @@ Reference: [Ethiopic Layout Requirements](https://www.w3.org/TR/elreq/#ethiopic_
 
 单词以空格分隔。
 
+## 它拿字母
+
+单词以空格分隔。
+
 ## 泰文
 
 没有单词分隔符，下图竖线出现的地方是单词边界：

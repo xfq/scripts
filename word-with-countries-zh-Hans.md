@@ -198,6 +198,12 @@ Reference: [Ethiopic Layout Requirements](https://www.w3.org/TR/elreq/#ethiopic_
 
 单词以空格分隔。
 
+## 它拿字母
+
+使用的国家和地区：马尔代夫。
+
+单词以空格分隔。
+
 ## 泰文
 
 使用的国家和地区：泰国、柬埔寨、马来西亚、缅甸。
