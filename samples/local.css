@@ -44,3 +44,7 @@ p:lang(mn) {
   font-size: 110%;
   font-style: normal;
 }
+
+:lang(aho) {
+  font-family: "Noto Serif Ahom", serif;
+}
