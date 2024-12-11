@@ -1,0 +1,16 @@
+/* html {
+    color: white;
+    background-color: #005a9c;
+} */
+
+.script-hebrew {
+    font-family: "SBL Hebrew","SBL BibLit","Taamey Ashkenaz","Ezra SIL","Ezra SIL SR","Frank Ruehl CLM","Taamey Frank CLM","Keter Aram Tsova","Taamey David CLM","Keter YG","Shofar","David CLM","Hadasim CLM","Simple CLM","Nachlieli",Cardo,Alef,"Noto Serif Hebrew","Noto Sans Hebrew","David Libre",David,"Times New Roman",Gisha,Arial,FreeSerif,FreeSans;
+}
+
+:lang(my) {
+    font-family: Padauk, Padauk Book, Parabaik, Myanmar3, Myanmar2, Myanmar1, MyMyanmar, 'Noto Sans Myanmar', 'Myanmar Text';
+}
+
+:lang(en) {
+    font-family: "Gentium Plus", "Doulos SIL", sans-serif;
+}
