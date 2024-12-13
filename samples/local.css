@@ -9,6 +9,10 @@
   font-family: 'Punctuation SC', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', 'PingFang SC', 'Noto Sans SC', 'Noto Sans CJK SC', 'Heiti SC', 'DengXian', 'Microsoft YaHei', sans-serif;
 }
 
+:lang(en) {
+  font-family: "Gentium Plus", "Doulos SIL", sans-serif;
+}
+
 .uchen {
   font-family: "Qomolangma-Dunhuang","Qomolangma-Uchen Sarchen","Qomolangma-Uchen Sarchung","Qomolangma-Uchen Suring","Qomolangma-Uchen Sutung","Qomolangma-Title","Qomolangma-Subtitle","Qomolangma-Woodblock","BabelStone Tibetan Slim",Jomolhari,"Yagpo Tibetan Uni","DDC Uchen","DDC Rinzin",Kailash,"TCRC Youtso Unicode","Tibetan Machine Uni",Wangdi29,"Noto Serif Tibetan","Noto Sans Tibetan","Microsoft Himalaya";
 }
@@ -48,3 +52,4 @@ p:lang(mn) {
 :lang(aho) {
   font-family: "Noto Serif Ahom", serif;
 }
+
