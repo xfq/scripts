@@ -33,40 +33,87 @@
     </div>
 
     <script>
+        // Parse CSV content while honoring quoted fields and escaped quotes
+        function parseCSV(text) {
+            const rows = [];
+            let currentRow = [];
+            let currentValue = '';
+            let inQuotes = false;
+
+            for (let i = 0; i < text.length; i++) {
+                const char = text[i];
+
+                if (char === '"') {
+                    if (inQuotes && text[i + 1] === '"') {
+                        currentValue += '"';
+                        i += 1;
+                    } else {
+                        inQuotes = !inQuotes;
+                    }
+                } else if (char === ',' && !inQuotes) {
+                    currentRow.push(currentValue.trim());
+                    currentValue = '';
+                } else if ((char === '\n' || char === '\r') && !inQuotes) {
+                    if (char === '\r' && text[i + 1] === '\n') {
+                        i += 1;
+                    }
+                    currentRow.push(currentValue.trim());
+                    if (currentRow.some(value => value !== '')) {
+                        rows.push(currentRow);
+                    }
+                    currentRow = [];
+                    currentValue = '';
+                } else {
+                    currentValue += char;
+                }
+            }
+
+            if (currentValue.length > 0 || currentRow.length) {
+                currentRow.push(currentValue.trim());
+                if (currentRow.some(value => value !== '')) {
+                    rows.push(currentRow);
+                }
+            }
+
+            return rows;
+        }
+
         // Function to load the CSV file
         function loadCSV() {
             fetch('scripts.csv')
                 .then(response => response.text())
                 .then(data => {
                     const tableBody = document.getElementById('tableBody');
-                    const rows = data.split('\n');
-                    
-                    // Process each row from the CSV
-                    rows.forEach(row => {
-                        if (row.trim() === '') return;
-                        
-                        // Find the position of the first comma
-                        const firstCommaIndex = row.indexOf(',');
-                        if (firstCommaIndex > 0) {
-                            const english = row.substring(0, firstCommaIndex).trim();
-                            const chinese = row.substring(firstCommaIndex + 1).trim();
-                            
-                            const tr = document.createElement('tr');
-                            
-                            const tdEn = document.createElement('td');
-                            tdEn.setAttribute('lang', 'en');
-                            tdEn.textContent = english;
-                            
-                            const tdZh = document.createElement('td');
-                            tdZh.setAttribute('lang', 'zh-Hans');
-                            tdZh.textContent = chinese;
-                            
-                            tr.appendChild(tdEn);
-                            tr.appendChild(tdZh);
-                            tableBody.appendChild(tr);
+                    const normalizedData = data.replace(/^\uFEFF/, '');
+                    const rows = parseCSV(normalizedData);
+
+                    rows.forEach(columns => {
+                        if (!Array.isArray(columns) || columns.length < 2) {
+                            return;
                         }
+
+                        const english = columns[0];
+                        const chinese = columns.slice(1).join(',');
+
+                        if (!english || !chinese) {
+                            return;
+                        }
+
+                        const tr = document.createElement('tr');
+
+                        const tdEn = document.createElement('td');
+                        tdEn.setAttribute('lang', 'en');
+                        tdEn.textContent = english;
+
+                        const tdZh = document.createElement('td');
+                        tdZh.setAttribute('lang', 'zh-Hans');
+                        tdZh.textContent = chinese;
+
+                        tr.appendChild(tdEn);
+                        tr.appendChild(tdZh);
+                        tableBody.appendChild(tr);
                     });
-                    
+
                     // Initialize search after loading data
                     initializeSearch();
                 })
