@@ -1,4 +1,4 @@
-﻿Abaza,阿巴扎语
+Abaza,阿巴扎语
 Adlam,阿德拉姆字母
 Adyghe,阿迪格语
 Aegean numerals,爱琴数字
@@ -17,6 +17,7 @@ Arabic,阿拉伯字母，阿拉伯语
 Aramaic,阿拉姆语，阿拉米语，阿拉姆字母，阿拉米字母
 Armenian,亚美尼亚字母，亚美尼亚语
 Assamese,阿萨姆语
+Asturian,阿斯图里亚斯语
 Austrian German,奥地利德语
 Avestan,阿维斯陀字母，阿维斯陀语
 Azeri,阿塞拜疆语
@@ -120,7 +121,6 @@ Jeongum (writing system for the Korean language),正音（朝鲜语/韩国语所
 Jurchen,女真文，女真语
 Kamba,卡姆巴语，坎巴语
 kana,假名
-Kángbɛ,康柏
 Kannada,卡纳达文，卡纳达语
 Kapampangan,邦板牙语
 Kashmiri,克什米尔语
@@ -130,14 +130,15 @@ Kharosthi,佉卢文
 Khitan small script,契丹小字
 Khmer,高棉文，柬埔寨语，高棉语，柬语
 Khom Thai,泰国高棉文
-Khün (Tai Khün),傣艮语
 Khwarezmian,花剌子模语
+Khün (Tai Khün),傣艮语
 Konkani,孔卡尼语
 Korean,朝鲜语，韩国语
 Kulitan,库利坦字母
 Kurdish,库尔德语
 Kurukh,库鲁克语
 Kyrgyz,柯尔克孜语
+Kángbɛ,康柏
 Lao,老挝文，老挝语
 Latin,拉丁字母，拉丁语
 Lepcha,绒巴文
@@ -155,7 +156,6 @@ Manchu,满文，满语
 Mandaic,曼达字母，曼底安字母，曼达语，曼底安语
 Mandinka,曼丁卡语，曼丁戈语
 Manichaean,摩尼字母
-Māori,毛利语
 Marathi,马拉地语
 Maya script,玛雅文字
 Meetei,曼尼普尔文，曼尼普尔语
@@ -170,15 +170,16 @@ Mongolian,蒙文，蒙古语
 Mooré,莫西语
 Myanmar,缅文
 Mycenaean Greek,迈锡尼希腊语
+Māori,毛利语
 Nabataean,纳巴泰字母
 Nag Mundari,蒙达里文
-Nāgarī,城文
 Naxi,纳西语
 Nepali,尼泊尔语
 N'Ko,西非书面字母，西非书面文字，康柏语
 Northern Kurdish,北库尔德语
 Northern Thai,北部泰语
 Norwegian,挪威语
+Nāgarī,城文
 Nüshu,女书
 Odia (Oriya),奥里亚文
 Ogham,欧甘字母
@@ -199,7 +200,6 @@ Pallava,帕拉瓦文
 Pashto,普什图语
 Persian,波斯语
 Persian alphabet (Perso-Arabic script),波斯字母系统
-ʼPhags-pa,八思巴字母
 Phoenician,腓尼基字母，腓尼基语
 Pirahã,皮拉罕语
 Polish,波兰语
@@ -250,7 +250,6 @@ Tai Viet,越南傣文
 Tai Xuan Jing Symbols,太玄经符号
 Tamil,泰米尔文，泰米尔语
 Tangut,西夏文
-Tày,岱依语
 Telugu,泰卢固文
 Thaana,它拿字母
 Thai,泰文，泰语
@@ -261,6 +260,7 @@ Tulu,图卢语
 Turkish,土耳其语
 Turoyo (Surayt),图罗尤语
 Twi,契维语
+Tày,岱依语
 Ubykh,尤比克语
 Ugaritic,乌加里特字母，乌加里特语
 Uighur,维吾尔语
@@ -283,3 +283,4 @@ Yoruba,约鲁巴语
 Zhangzhung,象雄语
 Zhuang,壮语
 Zulu,祖鲁语
+ʼPhags-pa,八思巴字母
