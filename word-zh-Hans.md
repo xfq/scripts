@@ -204,6 +204,12 @@ Reference: [Ethiopic Layout Requirements](https://www.w3.org/TR/elreq/#ethiopic_
 
 单词以空格分隔。
 
+## 彝文
+
+使用的国家和地区：中国。
+
+彝文中没有单词分隔符，音节间有空格。
+
 ## 亚美尼亚字母
 
 单词以空格分隔。
